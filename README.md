@@ -3,7 +3,7 @@
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
 Create a fully responsive landing page website, with optimized layouts for desktop, tablet, and mobile devices. Challenge yourself to showcase your CSS skills and create a stunning design that impresses potential customers.
-
+j
 ## How to start
 
 1. Start the project in our [app](https://app.bigdevsoon.me/) to get a feel for it.
